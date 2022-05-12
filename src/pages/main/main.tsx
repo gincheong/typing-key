@@ -5,7 +5,7 @@ const Main = () => {
   return (
     <Container>
       <Keyboard />
-      <TextInput />
+      {/* <TextInput /> */}
     </Container>
   );
 };
